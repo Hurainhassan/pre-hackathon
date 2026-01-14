@@ -1,0 +1,28 @@
+.hero{
+    background-image: url(./pictures/image\ 33.png);
+}
+.color{
+color: white!important;
+}
+.button{
+    background-color: white!important;
+    border-radius: 20px!important;
+    width: 130px;
+    height: 40px;
+}
+.colortext{
+ color: black!important;
+ background-color: white!important;
+ border-radius: 30px!important;
+}
+.bigcolor{
+  background: linear-gradient(90deg, #FC00FF 0%, #00DBDE 100%) !important;
+ -webkit-background-clip : text!important;
+ background-clip: text!important;
+ -webkit-text-fill-color: transparent!important;
+
+}
+.toggler{
+    background-color: white;
+    border-radius: 5px!important;
+}
